@@ -1,0 +1,4 @@
+
+[module vostok.core]
+url = git@github.com:vostok/core.git
+
