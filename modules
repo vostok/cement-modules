@@ -2,3 +2,7 @@
 [module vostok.core]
 url = git@github.com:vostok/core.git
 
+
+[module vostok.clusterclient]
+url = git@github.com:vostok/vostok.clusterclient.git
+
