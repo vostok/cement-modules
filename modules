@@ -1,6 +1,6 @@
 
 [module vostok.core]
-url = git@github.com:vostok/core.git
+url = https://github.com/vostok/core.git
 
 
 [module vostok.clusterclient]
