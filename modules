@@ -6,3 +6,7 @@ url = git@github.com:vostok/core.git
 [module vostok.clusterclient]
 url = git@github.com:vostok/vostok.clusterclient.git
 
+
+[module vostok.airlock.client]
+url = git@github.com:vostok/vostok.airlock.client.git
+
