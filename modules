@@ -10,3 +10,7 @@ url = git@github.com:vostok/vostok.clusterclient.git
 [module vostok.airlock.client]
 url = git@github.com:vostok/vostok.airlock.client.git
 
+
+[module vostok.clusterclient.transport.http]
+url = git@github.com:vostok/vostok.clusterclient.transport.http.git
+
