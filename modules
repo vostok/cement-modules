@@ -18,3 +18,7 @@ url = git@github.com:vostok/vostok.clusterclient.transport.http.git
 [module vostok.hosting]
 url = git@github.com:vostok/vostok.hosting.git
 
+
+[module vostok.hosting.core]
+url = git@github.com:vostok/vostok.hosting.core.git
+
