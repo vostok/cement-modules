@@ -34,3 +34,7 @@ url = https://github.com/vostok/vostok.instrumentation.aspnetcore.git
 [module vostok.logging.serilog]
 url = https://github.com/vostok/vostok.logging.serilog.git
 
+
+[module vostok.airlock.consumer]
+url = https://github.com/vostok/vostok.airlock.consumer.git
+
