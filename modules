@@ -22,3 +22,7 @@ url = https://github.com/vostok/vostok.hosting.git
 [module vostok.hosting.core]
 url = https://github.com/vostok/vostok.hosting.core.git
 
+
+[module vostok.contrails.api]
+url = https://github.com/vostok/vostok.contrails.api.git
+
