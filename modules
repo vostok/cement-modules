@@ -26,3 +26,7 @@ url = https://github.com/vostok/vostok.hosting.core.git
 [module vostok.contrails.api]
 url = https://github.com/vostok/vostok.contrails.api.git
 
+
+[module vostok.instrumentation.aspnetcore]
+url = https://github.com/vostok/vostok.instrumentation.aspnetcore.git
+
