@@ -30,3 +30,7 @@ url = https://github.com/vostok/vostok.contrails.api.git
 [module vostok.instrumentation.aspnetcore]
 url = https://github.com/vostok/vostok.instrumentation.aspnetcore.git
 
+
+[module vostok.logging.serilog]
+url = https://github.com/vostok/vostok.logging.serilog.git
+
