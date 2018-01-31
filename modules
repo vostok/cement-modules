@@ -42,3 +42,7 @@ url = https://github.com/vostok/vostok.airlock.consumer.git
 [module vostok.graphite.reporter]
 url = https://github.com/vostok/vostok.graphite.reporter.git
 
+
+[module vostok.frontier]
+url = https://github.com/vostok/vostok.frontier.git
+
