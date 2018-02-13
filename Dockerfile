@@ -1,7 +1,7 @@
 FROM skbkontur/cement:latest
 
 RUN apt-get update
-RUN apt-get --yes install curl apt-transport-https
+RUN apt-get --yes install curl apt-transport-https git
 
 RUN curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
 RUN mv microsoft.gpg /etc/apt/trusted.gpg.d/microsoft.gpg
