@@ -46,3 +46,6 @@ url = https://github.com/vostok/vostok.graphite.reporter.git
 [module vostok.frontier]
 url = https://github.com/vostok/vostok.frontier.git
 
+[module vostok.launchpad.template.aspnetcore]
+url = https://github.com/vostok/vostok.launchpad.template.aspnetcore.git
+
