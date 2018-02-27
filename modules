@@ -1,51 +1,51 @@
 
-[module vostok.core]
-url = https://github.com/vostok/vostok.core.git
+[module vstk.core]
+url = https://github.com/vostok/vstk.core.git
 
 
-[module vostok.clusterclient]
-url = https://github.com/vostok/vostok.clusterclient.git
+[module vstk.clusterclient]
+url = https://github.com/vostok/vstk.clusterclient.git
 
 
-[module vostok.airlock.client]
-url = https://github.com/vostok/vostok.airlock.client.git
+[module vstk.airlock.client]
+url = https://github.com/vostok/vstk.airlock.client.git
 
 
-[module vostok.clusterclient.transport.http]
-url = https://github.com/vostok/vostok.clusterclient.transport.http.git
+[module vstk.clusterclient.transport.http]
+url = https://github.com/vostok/vstk.clusterclient.transport.http.git
 
 
-[module vostok.hosting]
-url = https://github.com/vostok/vostok.hosting.git
+[module vstk.hosting]
+url = https://github.com/vostok/vstk.hosting.git
 
 
-[module vostok.hosting.core]
-url = https://github.com/vostok/vostok.hosting.core.git
+[module vstk.hosting.core]
+url = https://github.com/vostok/vstk.hosting.core.git
 
 
-[module vostok.contrails.api]
-url = https://github.com/vostok/vostok.contrails.api.git
+[module vstk.contrails.api]
+url = https://github.com/vostok/vstk.contrails.api.git
 
 
-[module vostok.instrumentation.aspnetcore]
-url = https://github.com/vostok/vostok.instrumentation.aspnetcore.git
+[module vstk.instrumentation.aspnetcore]
+url = https://github.com/vostok/vstk.instrumentation.aspnetcore.git
 
 
-[module vostok.logging.serilog]
-url = https://github.com/vostok/vostok.logging.serilog.git
+[module vstk.logging.serilog]
+url = https://github.com/vostok/vstk.logging.serilog.git
 
 
-[module vostok.airlock.consumer]
-url = https://github.com/vostok/vostok.airlock.consumer.git
+[module vstk.airlock.consumer]
+url = https://github.com/vostok/vstk.airlock.consumer.git
 
 
-[module vostok.graphite.reporter]
-url = https://github.com/vostok/vostok.graphite.reporter.git
+[module vstk.graphite.reporter]
+url = https://github.com/vostok/vstk.graphite.reporter.git
 
 
-[module vostok.frontier]
-url = https://github.com/vostok/vostok.frontier.git
+[module vstk.frontier]
+url = https://github.com/vostok/vstk.frontier.git
 
-[module vostok.launchpad.template.aspnetcore]
+[module vstk.launchpad.template.aspnetcore]
 url = https://github.com/vostok/vostok.launchpad.template.aspnetcore.git
 
