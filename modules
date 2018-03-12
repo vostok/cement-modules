@@ -1,50 +1,50 @@
 
 [module vstk.core]
-url = https://github.com/vostok/vstk.core.git
+url = https://github.com/vostok/core.git
 
 
 [module vstk.clusterclient]
-url = https://github.com/vostok/vstk.clusterclient.git
+url = https://github.com/vostok/clusterclient.git
 
 
 [module vstk.airlock.client]
-url = https://github.com/vostok/vstk.airlock.client.git
+url = https://github.com/vostok/airlock.client.git
 
 
 [module vstk.clusterclient.transport.http]
-url = https://github.com/vostok/vstk.clusterclient.transport.http.git
+url = https://github.com/vostok/clusterclient.transport.http.git
 
 
 [module vstk.hosting]
-url = https://github.com/vostok/vstk.hosting.git
+url = https://github.com/vostok/hosting.git
 
 
 [module vstk.hosting.core]
-url = https://github.com/vostok/vstk.hosting.core.git
+url = https://github.com/vostok/hosting.core.git
 
 
 [module vstk.contrails.api]
-url = https://github.com/vostok/vstk.contrails.api.git
+url = https://github.com/vostok/contrails.api.git
 
 
 [module vstk.instrumentation.aspnetcore]
-url = https://github.com/vostok/vstk.instrumentation.aspnetcore.git
+url = https://github.com/vostok/instrumentation.aspnetcore.git
 
 
 [module vstk.logging.serilog]
-url = https://github.com/vostok/vstk.logging.serilog.git
+url = https://github.com/vostok/logging.serilog.git
 
 
 [module vstk.airlock.consumer]
-url = https://github.com/vostok/vstk.airlock.consumer.git
+url = https://github.com/vostok/airlock.consumer.git
 
 
 [module vstk.graphite.reporter]
-url = https://github.com/vostok/vstk.graphite.reporter.git
+url = https://github.com/vostok/graphite.reporter.git
 
 
 [module vstk.frontier]
-url = https://github.com/vostok/vstk.frontier.git
+url = https://github.com/vostok/frontier.git
 
 [module vstk.launchpad.template.aspnetcore]
 url = https://github.com/vostok/vostok.launchpad.template.aspnetcore.git
