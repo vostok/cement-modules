@@ -50,6 +50,6 @@ url = https://github.com/vostok/frontier.git
 url = https://github.com/vostok/vostok.launchpad.template.aspnetcore.git
 
 
-[module configuration]
+[module vostok.configuration]
 url = git@github.com:vostok/configuration.git
 
