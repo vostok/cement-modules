@@ -57,3 +57,7 @@ url = https://github.com/vostok/configuration.git
 [module vostok.commons]
 url = https://github.com/vostok/commons.git
 
+
+[module vostok.logging]
+url = git@github.com:vostok/logging.git
+
