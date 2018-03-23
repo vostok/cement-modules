@@ -49,6 +49,8 @@ url = https://github.com/vostok/frontier.git
 [module vostok.launchpad.template.aspnetcore]
 url = https://github.com/vostok/launchpad.template.aspnetcore.git
 
+[module vostok.launchpad]
+url = https://github.com/vostok/launchpad.git
 
 [module vostok.configuration]
 url = https://github.com/vostok/configuration.git
