@@ -63,3 +63,7 @@ url = https://github.com/vostok/commons.git
 [module vostok.logging]
 url = git@github.com:vostok/logging.git
 
+
+[module vostok.context]
+url = git@github.com:vostok/context.git
+
