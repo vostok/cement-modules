@@ -67,3 +67,7 @@ url = git@github.com:vostok/logging.git
 [module vostok.context]
 url = git@github.com:vostok/context.git
 
+
+[module vostok.commons.testing]
+url = git@github.com:vostok/commons.testing.git
+
