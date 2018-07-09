@@ -75,3 +75,7 @@ url = git@github.com:vostok/commons.testing.git
 [module vostok.configuration.abstractions]
 url = git@github.com:vostok/configuration.abstractions.git
 
+
+[module vostok.logging.abstractions]
+url = git@github.com:vostok/logging.abstractions.git
+
