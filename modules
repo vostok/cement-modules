@@ -83,3 +83,7 @@ url = git@github.com:vostok/logging.abstractions.git
 [module vostok.logging.context]
 url = git@github.com:vostok/logging.context.git
 
+
+[module vostok.devtools]
+url = git@github.com:vostok/devtools.git
+
