@@ -99,3 +99,7 @@ url = git@github.com:vostok/logging.file.git
 [module vostok.logging.console]
 url = git@github.com:vostok/logging.console.git
 
+
+[module vostok.logging.log4net]
+url = git@github.com:vostok/logging.log4net.git
+
