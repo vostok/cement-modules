@@ -87,3 +87,7 @@ url = git@github.com:vostok/logging.context.git
 [module vostok.devtools]
 url = git@github.com:vostok/devtools.git
 
+
+[module vostok.logging.core]
+url = git@github.com:vostok/logging.core.git
+
