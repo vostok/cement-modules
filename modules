@@ -103,3 +103,7 @@ url = git@github.com:vostok/logging.console.git
 [module vostok.logging.log4net]
 url = git@github.com:vostok/logging.log4net.git
 
+
+[module vostok.airlock.client.abstractions]
+url = git@github.com:vostok/airlock.client.abstractions.git
+
