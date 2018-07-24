@@ -3,8 +3,8 @@
 url = https://github.com/vostok/core.git
 
 
-[module vostok.clusterclient]
-url = https://github.com/vostok/clusterclient.git
+[module vostok.clusterclient.core]
+url = https://github.com/vostok/clusterclient.core.git
 
 
 [module vostok.airlock.client]
