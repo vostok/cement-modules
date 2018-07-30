@@ -115,3 +115,7 @@ url = git@github.com:vostok/airlock.client.abstractions.git
 [module vostok.clusterclient.transport.webrequest]
 url = git@github.com:vostok/clusterclient.transport.webrequest.git
 
+
+[module vostok.commons.collections]
+url = git@github.com:vostok/commons.collections.git
+
