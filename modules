@@ -119,3 +119,7 @@ url = git@github.com:vostok/clusterclient.transport.webrequest.git
 [module vostok.commons.collections]
 url = git@github.com:vostok/commons.collections.git
 
+
+[module vostok.commons.threading]
+url = git@github.com:vostok/commons.threading.git
+
