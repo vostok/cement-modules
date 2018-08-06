@@ -127,3 +127,7 @@ url = git@github.com:vostok/commons.threading.git
 [module vostok.commons.primitives]
 url = git@github.com:vostok/commons.primitives.git
 
+
+[module vostok.commons.helpers]
+url = git@github.com:vostok/commons.helpers.git
+
