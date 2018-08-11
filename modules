@@ -133,3 +133,7 @@ url = git@github.com:vostok/throttling.git
 
 [module vostok.sys.metrics.etw]
 url = git@github.com:vostok/sys.metrics.etw.git
+
+
+[module vostok.sys.metrics.windows.perfcounters]
+url = git@github.com:vostok/sys.metrics.windows.perfcounters.git
