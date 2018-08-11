@@ -123,5 +123,5 @@ url = git@github.com:vostok/commons.primitives.git
 url = git@github.com:vostok/commons.helpers.git
 
 
-[module vostok.system.metrics.windows]
-url = git@github.com:vostok/system.metrics.windows.git
+[module vostok.sys.metrics.windows]
+url = git@github.com:vostok/sys.metrics.windows.git
