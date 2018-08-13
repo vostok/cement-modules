@@ -55,10 +55,6 @@ url = https://github.com/vostok/launchpad.git
 [module vostok.configuration]
 url = https://github.com/vostok/configuration.git
 
-[module vostok.logging]
-url = git@github.com:vostok/logging.git
-
-
 [module vostok.context]
 url = git@github.com:vostok/context.git
 
