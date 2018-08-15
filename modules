@@ -1,135 +1,74 @@
-
-[module vostok.core]
-url = https://github.com/vostok/core.git
-
-
-[module vostok.clusterclient.core]
-url = https://github.com/vostok/clusterclient.core.git
-
-
-[module vostok.airlock.client]
-url = https://github.com/vostok/airlock.client.git
-
-
-[module vostok.clusterclient.transport.http]
-url = https://github.com/vostok/clusterclient.transport.http.git
-
-
-[module vostok.hosting]
-url = https://github.com/vostok/hosting.git
-
-
-[module vostok.hosting.core]
-url = https://github.com/vostok/hosting.core.git
-
-
-[module vostok.contrails.api]
-url = https://github.com/vostok/contrails.api.git
-
-
-[module vostok.instrumentation.aspnetcore]
-url = https://github.com/vostok/instrumentation.aspnetcore.git
-
-
-[module vostok.logging.serilog]
-url = https://github.com/vostok/logging.serilog.git
-
-
-[module vostok.airlock.consumer]
-url = https://github.com/vostok/airlock.consumer.git
-
-
-[module vostok.graphite.reporter]
-url = https://github.com/vostok/graphite.reporter.git
-
-
-[module vostok.frontier]
-url = https://github.com/vostok/frontier.git
-
-[module vostok.launchpad.template.aspnetcore]
-url = https://github.com/vostok/launchpad.template.aspnetcore.git
-
-[module vostok.launchpad]
-url = https://github.com/vostok/launchpad.git
-
-[module vostok.configuration]
-url = https://github.com/vostok/configuration.git
-
-[module vostok.context]
-url = git@github.com:vostok/context.git
-
-
-[module vostok.commons.testing]
-url = git@github.com:vostok/commons.testing.git
-
-
-[module vostok.configuration.abstractions]
-url = git@github.com:vostok/configuration.abstractions.git
-
-
-[module vostok.logging.abstractions]
-url = git@github.com:vostok/logging.abstractions.git
-
-
-[module vostok.logging.context]
-url = git@github.com:vostok/logging.context.git
-
-
 [module vostok.devtools]
 url = git@github.com:vostok/devtools.git
-
-
-[module vostok.logging.formatting]
-url = git@github.com:vostok/logging.formatting.git
-
-
-[module vostok.logging.file]
-url = git@github.com:vostok/logging.file.git
-
-
-[module vostok.logging.console]
-url = git@github.com:vostok/logging.console.git
-
-
-[module vostok.logging.log4net]
-url = git@github.com:vostok/logging.log4net.git
-
-
-[module vostok.airlock.client.abstractions]
-url = git@github.com:vostok/airlock.client.abstractions.git
-
-
-[module vostok.clusterclient.transport.webrequest]
-url = git@github.com:vostok/clusterclient.transport.webrequest.git
-
 
 [module vostok.commons.collections]
 url = git@github.com:vostok/commons.collections.git
 
+[module vostok.commons.primitives]
+url = git@github.com:vostok/commons.primitives.git
 
 [module vostok.commons.threading]
 url = git@github.com:vostok/commons.threading.git
 
-
-[module vostok.commons.primitives]
-url = git@github.com:vostok/commons.primitives.git
-
-
 [module vostok.commons.helpers]
 url = git@github.com:vostok/commons.helpers.git
 
+[module vostok.commons.testing]
+url = git@github.com:vostok/commons.testing.git
 
-[module vostok.sys.metrics.windows]
-url = git@github.com:vostok/sys.metrics.windows.git
+[module vostok.context]
+url = git@github.com:vostok/context.git
 
+[module vostok.logging.abstractions]
+url = git@github.com:vostok/logging.abstractions.git
+
+[module vostok.logging.formatting]
+url = git@github.com:vostok/logging.formatting.git
+
+[module vostok.logging.console]
+url = git@github.com:vostok/logging.console.git
+
+[module vostok.logging.file]
+url = git@github.com:vostok/logging.file.git
+
+[module vostok.logging.context]
+url = git@github.com:vostok/logging.context.git
+
+[module vostok.logging.log4net]
+url = git@github.com:vostok/logging.log4net.git
+
+[module vostok.logging.serilog]
+url = git@github.com:vostok/logging.serilog.git
+
+[module vostok.configuration.abstractions]
+url = git@github.com:vostok/configuration.abstractions.git
+
+[module vostok.configuration]
+url = git@github.com:vostok/configuration.git
+
+[module vostok.clusterclient.core]
+url = git@github.com:vostok/clusterclient.core.git
+
+[module vostok.clusterclient.transport.http]
+url = git@github.com:vostok/clusterclient.transport.http.git
+
+[module vostok.clusterclient.transport.webrequest]
+url = git@github.com:vostok/clusterclient.transport.webrequest.git
+
+[module vostok.airlock.client.abstractions]
+url = git@github.com:vostok/airlock.client.abstractions.git
+
+[module vostok.airlock.client]
+url = git@github.com:vostok/airlock.client.git
 
 [module vostok.throttling]
 url = git@github.com:vostok/throttling.git
 
-
 [module vostok.sys.metrics.etw]
 url = git@github.com:vostok/sys.metrics.etw.git
 
+[module vostok.sys.metrics.windows]
+url = git@github.com:vostok/sys.metrics.windows.git
 
 [module vostok.sys.metrics.windows.performancecounters]
 url = git@github.com:vostok/sys.metrics.windows.performancecounters.git
