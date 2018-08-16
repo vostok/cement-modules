@@ -72,3 +72,7 @@ url = git@github.com:vostok/sys.metrics.windows.git
 
 [module vostok.sys.metrics.windows.performancecounters]
 url = git@github.com:vostok/sys.metrics.windows.performancecounters.git
+
+[module vostok.tracing.abstractions]
+url = git@github.com:vostok/tracing.abstractions.git
+
