@@ -74,13 +74,13 @@ pushurl = git@github.com:vostok/clusterclient.transport.http.git
 url = https://github.com/vostok/clusterclient.transport.webrequest.git
 pushurl = git@github.com:vostok/clusterclient.transport.webrequest.git
 
-[module vostok.airlock.client.abstractions]
-url = https://github.com/vostok/airlock.client.abstractions.git
-pushurl = git@github.com:vostok/airlock.client.abstractions.git
+[module vostok.hercules.client.abstractions]
+url = https://github.com/vostok/hercules.client.abstractions.git
+pushurl = git@github.com:vostok/hercules.client.abstractions.git
 
-[module vostok.airlock.client]
-url = https://github.com/vostok/airlock.client.git
-pushurl = git@github.com:vostok/airlock.client.git
+[module vostok.hercules.client]
+url = https://github.com/vostok/hercules.client.git
+pushurl = git@github.com:vostok/hercules.client.git
 
 [module vostok.throttling]
 url = https://github.com/vostok/throttling.git
