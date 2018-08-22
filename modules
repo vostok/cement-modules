@@ -106,3 +106,7 @@ pushurl = git@github.com:vostok/tracing.abstractions.git
 url = https://github.com/vostok/tracing.git
 pushurl = git@github.com:vostok/tracing.git
 
+
+[module vostok.tracing.extensions]
+url = https://github.com/vostok/tracing.extensions.git
+pushurl = git@github.com:vostok/tracing.extensions.git
