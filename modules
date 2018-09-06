@@ -111,9 +111,9 @@ url = https://github.com/vostok/tracing.extensions.git
 pushurl = git@github.com:vostok/tracing.extensions.git
 
 [module vostok.logging.hercules]
-url = git@github.com:vostok/logging.hercules.git
-pushurl = https://github.com/vostok/logging.hercules.git
+url = https://github.com/vostok/logging.hercules.git
+pushurl = git@github.com:vostok/logging.hercules.git
 
 [module vostok.devtools.ilrepack.bin]
-url = git@github.com:vostok/devtools.ilrepack.bin.git
-pushurl = https://github.com/vostok/devtools.ilrepack.bin.git
+url = https://github.com/vostok/devtools.ilrepack.bin.git
+pushurl = git@github.com:vostok/devtools.ilrepack.bin.git
