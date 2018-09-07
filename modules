@@ -117,3 +117,7 @@ pushurl = git@github.com:vostok/logging.hercules.git
 [module vostok.devtools.ilrepack.bin]
 url = https://github.com/vostok/devtools.ilrepack.bin.git
 pushurl = git@github.com:vostok/devtools.ilrepack.bin.git
+
+[module vostok.clusterclient.abstractions]
+url = https://github.com/vostok/clusterclient.abstractions.git
+pushurl = git@github.com:vostok/clusterclient.abstractions.git
