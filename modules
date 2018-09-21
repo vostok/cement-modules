@@ -137,3 +137,7 @@ pushurl = git@github.com:vostok/clusterclient.transport.tests.git
 [module vostok.commons.time]
 url = https://github.com/vostok/commons.time.git
 pushurl = git@github.com:vostok/commons.time.git
+
+[module vostok.hosting.abstractions]
+url = https://github.com/vostok/hosting.abstractions.git
+pushurl = git@github.com:vostok/hosting.abstractions.git
