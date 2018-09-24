@@ -141,3 +141,11 @@ pushurl = git@github.com:vostok/commons.time.git
 [module vostok.hosting.abstractions]
 url = https://github.com/vostok/hosting.abstractions.git
 pushurl = git@github.com:vostok/hosting.abstractions.git
+
+[module vostok.configuration.sources]
+url = https://github.com/vostok/configuration.sources.git
+pushurl = git@github.com:vostok/configuration.sources.git
+
+[module vostok.configuration.dumper]
+url = https://github.com/vostok/configuration.dumper.git
+pushurl = git@github.com:vostok/configuration.dumper.git
