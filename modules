@@ -149,3 +149,7 @@ pushurl = git@github.com:vostok/configuration.sources.git
 [module vostok.configuration.dumping]
 url = https://github.com/vostok/configuration.dumping.git
 pushurl = git@github.com:vostok/configuration.dumping.git
+
+[module vostok.commons.formatting]
+url = https://github.com/vostok/commons.formatting.git
+pushurl = git@github.com:vostok/commons.formatting.git
