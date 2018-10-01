@@ -161,3 +161,7 @@ pushurl = git@github.com:vostok/commons.environment.git
 [module vostok.configuration.sources.json]
 url = https://github.com/vostok/configuration.sources.json.git
 pushurl = git@github.com:vostok/configuration.sources.json.git
+
+[module vostok.configuration.sources.xml]
+url = https://github.com/vostok/configuration.sources.xml.git
+pushurl = git@github.com:vostok/configuration.sources.xml.git
