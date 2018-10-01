@@ -157,3 +157,7 @@ pushurl = git@github.com:vostok/commons.formatting.git
 [module vostok.commons.environment]
 url = https://github.com/vostok/commons.environment.git
 pushurl = git@github.com:vostok/commons.environment.git
+
+[module vostok.configuration.sources.json]
+url = https://github.com/vostok/configuration.sources.json.git
+pushurl = git@github.com:vostok/configuration.sources.json.git
