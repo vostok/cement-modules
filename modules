@@ -173,3 +173,7 @@ pushurl = git@github.com:vostok/configuration.sources.xml.git
 [module vostok.zookeeper.localensemble]
 url = https://github.com/vostok/zookeeper.localensemble.git
 pushurl = git@github.com:vostok/zookeeper.localensemble.git
+
+[module vostok.zookeeper.client]
+url = https://github.com/vostok/zookeeper.client.git
+pushurl = git@github.com:vostok/zookeeper.client.git
