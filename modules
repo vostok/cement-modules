@@ -178,6 +178,6 @@ pushurl = git@github.com:vostok/zookeeper.localensemble.git
 url = https://github.com/vostok/zookeeper.client.git
 pushurl = git@github.com:vostok/zookeeper.client.git
 
-[module vostok.systemmetrics.windows]
-url = https://github.com/vostok/systemmetrics.windows.git
-pushurl = git@github.com:vostok/systemmetrics.windows.git
+[module vostok.clusterclient.context]
+url = https://github.com/vostok/clusterclient.context.git
+pushurl = git@github.com:vostok/clusterclient.context.git
