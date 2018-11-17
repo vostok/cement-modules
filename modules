@@ -181,3 +181,7 @@ pushurl = git@github.com:vostok/zookeeper.client.git
 [module vostok.clusterclient.context]
 url = https://github.com/vostok/clusterclient.context.git
 pushurl = git@github.com:vostok/clusterclient.context.git
+
+[module vostok.sys.metrics.perfcounters]
+url = https://github.com/vostok/sys.metrics.perfcounters.git
+pushurl = git@github.com:vostok/sys.metrics.perfcounters.git
