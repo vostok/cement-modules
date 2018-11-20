@@ -185,3 +185,8 @@ pushurl = git@github.com:vostok/clusterclient.context.git
 [module vostok.sys.metrics.perfcounters]
 url = https://github.com/vostok/sys.metrics.perfcounters.git
 pushurl = git@github.com:vostok/sys.metrics.perfcounters.git
+
+[module vostok.sys.metrics.commons]
+
+url = https://github.com/vostok/sys.metrics.commons.git
+pushurl = git@github.com:vostok/sys.metrics.commons.git
