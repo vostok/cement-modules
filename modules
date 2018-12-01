@@ -189,3 +189,7 @@ pushurl = git@github.com:vostok/sys.metrics.perfcounters.git
 [module vostok.sys.metrics.commons]
 url = https://github.com/vostok/sys.metrics.commons.git
 pushurl = git@github.com:vostok/sys.metrics.commons.git
+
+[module vostok.commons.binary]
+url = https://github.com/vostok/commons.binary.git
+pushurl = git@github.com:vostok/commons.binary.git
