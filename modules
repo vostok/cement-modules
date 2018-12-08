@@ -193,3 +193,7 @@ pushurl = git@github.com:vostok/sys.metrics.commons.git
 [module vostok.commons.binary]
 url = https://github.com/vostok/commons.binary.git
 pushurl = git@github.com:vostok/commons.binary.git
+
+[module vostok.tracing.hercules]
+url = https://github.com/vostok/tracing.hercules.git
+pushurl = git@github.com:vostok/tracing.hercules.git
