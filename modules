@@ -82,6 +82,10 @@ pushurl = git@github.com:vostok/hercules.client.abstractions.git
 url = https://github.com/vostok/hercules.client.git
 pushurl = git@github.com:vostok/hercules.client.git
 
+[module vostok.hercules.client.management]
+url = https://github.com/vostok/hercules.client.management.git
+pushurl = git@github.com:vostok/hercules.client.management.git
+
 [module vostok.throttling]
 url = https://github.com/vostok/throttling.git
 pushurl = git@github.com:vostok/throttling.git
