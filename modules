@@ -213,3 +213,7 @@ pushurl = git@github.com:vostok/logging.microsoft.git
 [module vostok.clusterclient.transport.systemnethttp]
 url = https://github.com/vostok/clusterclient.transport.systemnethttp.git
 pushurl = git@github.com:vostok/clusterclient.transport.systemnethttp.git
+
+[module vostok.clusterconfig.client.abstractions]
+url = https://github.com/vostok/clusterconfig.client.abstractions.git
+pushurl = git@github.com:vostok/clusterconfig.client.abstractions.git
