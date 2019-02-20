@@ -233,3 +233,7 @@ pushurl = git@github.com:vostok/zookeeper.client.abstractions.git
 [module vostok.clusterclient.topology.cc]
 url = https://github.com/vostok/clusterclient.topology.cc.git
 pushurl = git@github.com:vostok/clusterclient.topology.cc.git
+
+[module vostok.configuration.sources.cc]
+url = https://github.com/vostok/configuration.sources.cc.git
+pushurl = git@github.com:vostok/configuration.sources.cc.git
