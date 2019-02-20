@@ -2,6 +2,10 @@
 url = https://github.com/vostok/devtools.git
 pushurl = git@github.com:vostok/devtools.git
 
+[module vostok.devtools.ilrepack.bin]
+url = https://github.com/vostok/devtools.ilrepack.bin.git
+pushurl = git@github.com:vostok/devtools.ilrepack.bin.git
+
 [module vostok.commons.collections]
 url = https://github.com/vostok/commons.collections.git
 pushurl = git@github.com:vostok/commons.collections.git
@@ -21,6 +25,22 @@ pushurl = git@github.com:vostok/commons.helpers.git
 [module vostok.commons.testing]
 url = https://github.com/vostok/commons.testing.git
 pushurl = git@github.com:vostok/commons.testing.git
+
+[module vostok.commons.binary]
+url = https://github.com/vostok/commons.binary.git
+pushurl = git@github.com:vostok/commons.binary.git
+
+[module vostok.commons.formatting]
+url = https://github.com/vostok/commons.formatting.git
+pushurl = git@github.com:vostok/commons.formatting.git
+
+[module vostok.commons.environment]
+url = https://github.com/vostok/commons.environment.git
+pushurl = git@github.com:vostok/commons.environment.git
+
+[module vostok.commons.time]
+url = https://github.com/vostok/commons.time.git
+pushurl = git@github.com:vostok/commons.time.git
 
 [module vostok.context]
 url = https://github.com/vostok/context.git
@@ -54,6 +74,14 @@ pushurl = git@github.com:vostok/logging.log4net.git
 url = https://github.com/vostok/logging.serilog.git
 pushurl = git@github.com:vostok/logging.serilog.git
 
+[module vostok.logging.hercules]
+url = https://github.com/vostok/logging.hercules.git
+pushurl = git@github.com:vostok/logging.hercules.git
+
+[module vostok.logging.microsoft]
+url = https://github.com/vostok/logging.microsoft.git
+pushurl = git@github.com:vostok/logging.microsoft.git
+
 [module vostok.configuration.abstractions]
 url = https://github.com/vostok/configuration.abstractions.git
 pushurl = git@github.com:vostok/configuration.abstractions.git
@@ -62,17 +90,65 @@ pushurl = git@github.com:vostok/configuration.abstractions.git
 url = https://github.com/vostok/configuration.git
 pushurl = git@github.com:vostok/configuration.git
 
+[module vostok.configuration.sources.cc]
+url = https://github.com/vostok/configuration.sources.cc.git
+pushurl = git@github.com:vostok/configuration.sources.cc.git
+
+[module vostok.configuration.sources]
+url = https://github.com/vostok/configuration.sources.git
+pushurl = git@github.com:vostok/configuration.sources.git
+
+[module vostok.configuration.sources.json]
+url = https://github.com/vostok/configuration.sources.json.git
+pushurl = git@github.com:vostok/configuration.sources.json.git
+
+[module vostok.configuration.sources.xml]
+url = https://github.com/vostok/configuration.sources.xml.git
+pushurl = git@github.com:vostok/configuration.sources.xml.git
+
+[module vostok.configuration.dumping]
+url = https://github.com/vostok/configuration.dumping.git
+pushurl = git@github.com:vostok/configuration.dumping.git
+
+[module vostok.configuration.demo]
+url = https://github.com/vostok/configuration.demo.git
+pushurl = git@github.com:vostok/configuration.demo.git
+
 [module vostok.clusterclient.core]
 url = https://github.com/vostok/clusterclient.core.git
 pushurl = git@github.com:vostok/clusterclient.core.git
 
-[module vostok.clusterclient.transport.http]
-url = https://github.com/vostok/clusterclient.transport.http.git
-pushurl = git@github.com:vostok/clusterclient.transport.http.git
+[module vostok.clusterclient.context]
+url = https://github.com/vostok/clusterclient.context.git
+pushurl = git@github.com:vostok/clusterclient.context.git
+
+[module vostok.clusterclient.transport]
+url = https://github.com/vostok/clusterclient.transport.git
+pushurl = git@github.com:vostok/clusterclient.transport.git
+
+[module vostok.clusterclient.transport.sockets]
+url = https://github.com/vostok/clusterclient.transport.sockets.git
+pushurl = git@github.com:vostok/clusterclient.transport.sockets.git
+
+[module vostok.clusterclient.transport.native]
+url = https://github.com/vostok/clusterclient.transport.native.git
+pushurl = git@github.com:vostok/clusterclient.transport.native.git
 
 [module vostok.clusterclient.transport.webrequest]
 url = https://github.com/vostok/clusterclient.transport.webrequest.git
 pushurl = git@github.com:vostok/clusterclient.transport.webrequest.git
+
+[module vostok.clusterclient.transport.tests]
+url = https://github.com/vostok/clusterclient.transport.tests.git
+pushurl = git@github.com:vostok/clusterclient.transport.tests.git
+
+[module vostok.clusterclient.topology.cc]
+url = https://github.com/vostok/clusterclient.topology.cc.git
+pushurl = git@github.com:vostok/clusterclient.topology.cc.git
+
+[module vostok.clusterclient.transport.systemnethttp]
+url = https://github.com/vostok/clusterclient.transport.systemnethttp.git
+pushurl = git@github.com:vostok/clusterclient.transport.systemnethttp.git
 
 [module vostok.hercules.client.abstractions]
 url = https://github.com/vostok/hercules.client.abstractions.git
@@ -86,22 +162,6 @@ pushurl = git@github.com:vostok/hercules.client.git
 url = https://github.com/vostok/hercules.client.management.git
 pushurl = git@github.com:vostok/hercules.client.management.git
 
-[module vostok.throttling]
-url = https://github.com/vostok/throttling.git
-pushurl = git@github.com:vostok/throttling.git
-
-[module vostok.sys.metrics.etw]
-url = https://github.com/vostok/sys.metrics.etw.git
-pushurl = git@github.com:vostok/sys.metrics.etw.git
-
-[module vostok.sys.metrics.windows]
-url = https://github.com/vostok/sys.metrics.windows.git
-pushurl = git@github.com:vostok/sys.metrics.windows.git
-
-[module vostok.sys.metrics.windows.performancecounters]
-url = https://github.com/vostok/sys.metrics.windows.performancecounters.git
-pushurl = git@github.com:vostok/sys.metrics.windows.performancecounters.git
-
 [module vostok.tracing.abstractions]
 url = https://github.com/vostok/tracing.abstractions.git
 pushurl = git@github.com:vostok/tracing.abstractions.git
@@ -114,105 +174,9 @@ pushurl = git@github.com:vostok/tracing.git
 url = https://github.com/vostok/tracing.extensions.git
 pushurl = git@github.com:vostok/tracing.extensions.git
 
-[module vostok.logging.hercules]
-url = https://github.com/vostok/logging.hercules.git
-pushurl = git@github.com:vostok/logging.hercules.git
-
-[module vostok.devtools.ilrepack.bin]
-url = https://github.com/vostok/devtools.ilrepack.bin.git
-pushurl = git@github.com:vostok/devtools.ilrepack.bin.git
-
-[module vostok.clusterclient.abstractions]
-url = https://github.com/vostok/clusterclient.abstractions.git
-pushurl = git@github.com:vostok/clusterclient.abstractions.git
-
-[module vostok.clusterclient.transport]
-url = https://github.com/vostok/clusterclient.transport.git
-pushurl = git@github.com:vostok/clusterclient.transport.git
-
-[module vostok.clusterclient.transport.sockets]
-url = https://github.com/vostok/clusterclient.transport.sockets.git
-pushurl = git@github.com:vostok/clusterclient.transport.sockets.git
-
-[module vostok.clusterclient.transport.tests]
-url = https://github.com/vostok/clusterclient.transport.tests.git
-pushurl = git@github.com:vostok/clusterclient.transport.tests.git
-
-[module vostok.clusterclient.transport.native]
-url = https://github.com/vostok/clusterclient.transport.native.git
-pushurl = git@github.com:vostok/clusterclient.transport.native.git
-
-[module vostok.commons.time]
-url = https://github.com/vostok/commons.time.git
-pushurl = git@github.com:vostok/commons.time.git
-
-[module vostok.hosting.abstractions]
-url = https://github.com/vostok/hosting.abstractions.git
-pushurl = git@github.com:vostok/hosting.abstractions.git
-
-[module vostok.configuration.sources]
-url = https://github.com/vostok/configuration.sources.git
-pushurl = git@github.com:vostok/configuration.sources.git
-
-[module vostok.configuration.dumping]
-url = https://github.com/vostok/configuration.dumping.git
-pushurl = git@github.com:vostok/configuration.dumping.git
-
-[module vostok.commons.formatting]
-url = https://github.com/vostok/commons.formatting.git
-pushurl = git@github.com:vostok/commons.formatting.git
-
-[module vostok.commons.environment]
-url = https://github.com/vostok/commons.environment.git
-pushurl = git@github.com:vostok/commons.environment.git
-
-[module vostok.configuration.sources.json]
-url = https://github.com/vostok/configuration.sources.json.git
-pushurl = git@github.com:vostok/configuration.sources.json.git
-
-[module vostok.configuration.sources.xml]
-url = https://github.com/vostok/configuration.sources.xml.git
-pushurl = git@github.com:vostok/configuration.sources.xml.git
-
-[module vostok.zookeeper.localensemble]
-url = https://github.com/vostok/zookeeper.localensemble.git
-pushurl = git@github.com:vostok/zookeeper.localensemble.git
-
-[module vostok.zookeeper.client]
-url = https://github.com/vostok/zookeeper.client.git
-pushurl = git@github.com:vostok/zookeeper.client.git
-
-[module vostok.clusterclient.context]
-url = https://github.com/vostok/clusterclient.context.git
-pushurl = git@github.com:vostok/clusterclient.context.git
-
-[module vostok.sys.metrics.perfcounters]
-url = https://github.com/vostok/sys.metrics.perfcounters.git
-pushurl = git@github.com:vostok/sys.metrics.perfcounters.git
-
-[module vostok.sys.metrics.commons]
-url = https://github.com/vostok/sys.metrics.commons.git
-pushurl = git@github.com:vostok/sys.metrics.commons.git
-
-[module vostok.commons.binary]
-url = https://github.com/vostok/commons.binary.git
-pushurl = git@github.com:vostok/commons.binary.git
-
 [module vostok.tracing.hercules]
 url = https://github.com/vostok/tracing.hercules.git
 pushurl = git@github.com:vostok/tracing.hercules.git
-
-[module vostok.configuration.demo]
-url = https://github.com/vostok/configuration.demo.git
-pushurl = git@github.com:vostok/configuration.demo.git
-
-[module vostok.logging.microsoft]
-url = https://github.com/vostok/logging.microsoft.git
-pushurl = git@github.com:vostok/logging.microsoft.git
-
-[module vostok.clusterclient.transport.systemnethttp]
-url = https://github.com/vostok/clusterclient.transport.systemnethttp.git
-pushurl = git@github.com:vostok/clusterclient.transport.systemnethttp.git
 
 [module vostok.clusterconfig.client.abstractions]
 url = https://github.com/vostok/clusterconfig.client.abstractions.git
@@ -230,10 +194,53 @@ pushurl = git@github.com:vostok/clusterconfig.core.git
 url = https://github.com/vostok/zookeeper.client.abstractions.git
 pushurl = git@github.com:vostok/zookeeper.client.abstractions.git
 
-[module vostok.clusterclient.topology.cc]
-url = https://github.com/vostok/clusterclient.topology.cc.git
-pushurl = git@github.com:vostok/clusterclient.topology.cc.git
+[module vostok.zookeeper.client]
+url = https://github.com/vostok/zookeeper.client.git
+pushurl = git@github.com:vostok/zookeeper.client.git
 
-[module vostok.configuration.sources.cc]
-url = https://github.com/vostok/configuration.sources.cc.git
-pushurl = git@github.com:vostok/configuration.sources.cc.git
+[module vostok.zookeeper.localensemble]
+url = https://github.com/vostok/zookeeper.localensemble.git
+pushurl = git@github.com:vostok/zookeeper.localensemble.git
+
+[module vostok.hosting.abstractions]
+url = https://github.com/vostok/hosting.abstractions.git
+pushurl = git@github.com:vostok/hosting.abstractions.git
+
+[module vostok.throttling]
+url = https://github.com/vostok/throttling.git
+pushurl = git@github.com:vostok/throttling.git
+
+[module vostok.sys.metrics.etw]
+url = https://github.com/vostok/sys.metrics.etw.git
+pushurl = git@github.com:vostok/sys.metrics.etw.git
+
+[module vostok.sys.metrics.windows]
+url = https://github.com/vostok/sys.metrics.windows.git
+pushurl = git@github.com:vostok/sys.metrics.windows.git
+
+[module vostok.sys.metrics.windows.performancecounters]
+url = https://github.com/vostok/sys.metrics.windows.performancecounters.git
+pushurl = git@github.com:vostok/sys.metrics.windows.performancecounters.git
+
+[module vostok.sys.metrics.perfcounters]
+url = https://github.com/vostok/sys.metrics.perfcounters.git
+pushurl = git@github.com:vostok/sys.metrics.perfcounters.git
+
+[module vostok.sys.metrics.commons]
+url = https://github.com/vostok/sys.metrics.commons.git
+pushurl = git@github.com:vostok/sys.metrics.commons.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
