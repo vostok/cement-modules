@@ -244,3 +244,7 @@ pushurl = git@github.com:vostok/sys.metrics.commons.git
 [module vostok.metrics.abstractions]
 url = https://github.com/vostok/metrics.abstractions.git
 pushurl = git@github.com:vostok/metrics.abstractions.git
+
+[module vostok.configuration.logging]
+url = https://github.com/vostok/configuration.logging.git
+pushurl = git@github.com:vostok/configuration.logging.git
