@@ -90,13 +90,13 @@ pushurl = git@github.com:vostok/configuration.abstractions.git
 url = https://github.com/vostok/configuration.git
 pushurl = git@github.com:vostok/configuration.git
 
-[module vostok.configuration.sources.cc]
-url = https://github.com/vostok/configuration.sources.cc.git
-pushurl = git@github.com:vostok/configuration.sources.cc.git
-
 [module vostok.configuration.sources]
 url = https://github.com/vostok/configuration.sources.git
 pushurl = git@github.com:vostok/configuration.sources.git
+
+[module vostok.configuration.sources.cc]
+url = https://github.com/vostok/configuration.sources.cc.git
+pushurl = git@github.com:vostok/configuration.sources.cc.git
 
 [module vostok.configuration.sources.json]
 url = https://github.com/vostok/configuration.sources.json.git
@@ -105,10 +105,6 @@ pushurl = git@github.com:vostok/configuration.sources.json.git
 [module vostok.configuration.sources.xml]
 url = https://github.com/vostok/configuration.sources.xml.git
 pushurl = git@github.com:vostok/configuration.sources.xml.git
-
-[module vostok.configuration.dumping]
-url = https://github.com/vostok/configuration.dumping.git
-pushurl = git@github.com:vostok/configuration.dumping.git
 
 [module vostok.configuration.demo]
 url = https://github.com/vostok/configuration.demo.git
