@@ -110,6 +110,14 @@ pushurl = git@github.com:vostok/configuration.sources.xml.git
 url = https://github.com/vostok/configuration.demo.git
 pushurl = git@github.com:vostok/configuration.demo.git
 
+[module vostok.configuration.logging]
+url = https://github.com/vostok/configuration.logging.git
+pushurl = git@github.com:vostok/configuration.logging.git
+
+[module vostok.configuration.microsoft]
+url = https://github.com/vostok/configuration.microsoft.git
+pushurl = git@github.com:vostok/configuration.microsoft.git
+
 [module vostok.clusterclient.core]
 url = https://github.com/vostok/clusterclient.core.git
 pushurl = git@github.com:vostok/clusterclient.core.git
@@ -226,25 +234,6 @@ pushurl = git@github.com:vostok/sys.metrics.perfcounters.git
 url = https://github.com/vostok/sys.metrics.commons.git
 pushurl = git@github.com:vostok/sys.metrics.commons.git
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [module vostok.metrics.abstractions]
 url = https://github.com/vostok/metrics.abstractions.git
 pushurl = git@github.com:vostok/metrics.abstractions.git
-
-[module vostok.configuration.logging]
-url = https://github.com/vostok/configuration.logging.git
-pushurl = git@github.com:vostok/configuration.logging.git
