@@ -10,10 +10,6 @@ pushurl = git@github.com:vostok/devtools.ilrepack.bin.git
 url = https://github.com/vostok/commons.collections.git
 pushurl = git@github.com:vostok/commons.collections.git
 
-[module vostok.commons.primitives]
-url = https://github.com/vostok/commons.primitives.git
-pushurl = git@github.com:vostok/commons.primitives.git
-
 [module vostok.commons.threading]
 url = https://github.com/vostok/commons.threading.git
 pushurl = git@github.com:vostok/commons.threading.git
