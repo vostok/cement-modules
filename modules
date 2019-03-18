@@ -230,9 +230,9 @@ pushurl = git@github.com:vostok/sys.metrics.perfcounters.git
 url = https://github.com/vostok/sys.metrics.commons.git
 pushurl = git@github.com:vostok/sys.metrics.commons.git
 
-[module vostok.metrics.abstractions]
-url = https://github.com/vostok/metrics.abstractions.git
-pushurl = git@github.com:vostok/metrics.abstractions.git
+[module vostok.metrics]
+url = https://github.com/vostok/metrics.git
+pushurl = git@github.com:vostok/metrics.git
 
 [module vostok.servicediscovery.abstractions]
 url = https://github.com/vostok/servicediscovery.abstractions.git
