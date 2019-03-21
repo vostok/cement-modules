@@ -245,3 +245,7 @@ pushurl = git@github.com:vostok/servicediscovery.git
 [module vostok.zookeeper.testing]
 url = https://github.com/vostok/zookeeper.testing.git
 pushurl = git@github.com:vostok/zookeeper.testing.git
+
+[module vostok.clusterclient.tracing]
+url = https://github.com/vostok/clusterclient.tracing.git
+pushurl = git@github.com:vostok/clusterclient.tracing.git
