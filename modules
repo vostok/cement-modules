@@ -102,6 +102,10 @@ pushurl = git@github.com:vostok/configuration.sources.json.git
 url = https://github.com/vostok/configuration.sources.xml.git
 pushurl = git@github.com:vostok/configuration.sources.xml.git
 
+[module vostok.configuration.sources.yaml]
+url = https://github.com/vostok/configuration.sources.yaml.git
+pushurl = git@github.com:vostok/configuration.sources.yaml.git
+
 [module vostok.configuration.demo]
 url = https://github.com/vostok/configuration.demo.git
 pushurl = git@github.com:vostok/configuration.demo.git
