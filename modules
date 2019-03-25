@@ -261,3 +261,7 @@ pushurl = git@github.com:vostok/logging.tracing.git
 [module vostok.commons.process]
 url = https://github.com/vostok/commons.process.git
 pushurl = git@github.com:vostok/commons.process.git
+
+[module vostok.metrics.hercules]
+url = https://github.com/vostok/metrics.hercules.git
+pushurl = git@github.com:vostok/metrics.hercules.git
