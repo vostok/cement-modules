@@ -257,3 +257,7 @@ pushurl = git@github.com:vostok/clusterclient.tracing.git
 [module vostok.logging.tracing]
 url = https://github.com/vostok/logging.tracing.git
 pushurl = git@github.com:vostok/logging.tracing.git
+
+[module vostok.commons.process]
+url = https://github.com/vostok/commons.process.git
+pushurl = git@github.com:vostok/commons.process.git
