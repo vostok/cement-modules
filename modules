@@ -258,9 +258,9 @@ pushurl = git@github.com:vostok/clusterclient.tracing.git
 url = https://github.com/vostok/logging.tracing.git
 pushurl = git@github.com:vostok/logging.tracing.git
 
-[module vostok.commons.process]
-url = https://github.com/vostok/commons.process.git
-pushurl = git@github.com:vostok/commons.process.git
+[module vostok.commons.local]
+url = https://github.com/vostok/commons.local.git
+pushurl = git@github.com:vostok/commons.local.git
 
 [module vostok.metrics.hercules]
 url = https://github.com/vostok/metrics.hercules.git
@@ -269,3 +269,7 @@ pushurl = git@github.com:vostok/metrics.hercules.git
 [module vostok.kafka.local]
 url = https://github.com/vostok/kafka.local.git
 pushurl = git@github.com:vostok/kafka.local.git
+
+[module vostok.kafka.local.resources]
+url = https://github.com/vostok/kafka.local.resources.git
+pushurl = git@github.com:vostok/kafka.local.resources.git
