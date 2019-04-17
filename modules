@@ -273,3 +273,7 @@ pushurl = git@github.com:vostok/kafka.local.git
 [module vostok.kafka.local.resources]
 url = https://github.com/vostok/kafka.local.resources.git
 pushurl = git@github.com:vostok/kafka.local.resources.git
+
+[module vostok.servicediscovery.extensions]
+url = https://github.com/vostok/servicediscovery.extensions.git
+pushurl = git@github.com:vostok/servicediscovery.extensions.git
