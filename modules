@@ -285,3 +285,7 @@ pushurl = git@github.com:vostok/hercules.local.git
 [module vostok.clusterclient.topology.sd]
 url = https://github.com/vostok/clusterclient.topology.sd.git
 pushurl = git@github.com:vostok/clusterclient.topology.sd.git
+
+[module vostok.hercules.consumers]
+url = https://github.com/vostok/hercules.consumers.git
+pushurl = git@github.com:vostok/hercules.consumers.git
