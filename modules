@@ -293,3 +293,7 @@ pushurl = git@github.com:vostok/hercules.consumers.git
 [module vostok.clusterclient.singular]
 url = https://github.com/vostok/clusterclient.singular.git
 pushurl = git@github.com:vostok/clusterclient.singular.git
+
+[module vostok.metrics.aggregations]
+url = https://github.com/vostok/metrics.aggregations.git
+pushurl = git@github.com:vostok/metrics.aggregations.git
