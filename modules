@@ -305,3 +305,7 @@ pushurl = git@github.com:vostok/datacenter.abstractions.git
 [module vostok.datacenter]
 url = https://github.com/vostok/datacenter.git
 pushurl = git@github.com:vostok/datacenter.git
+
+[module vostok.clusterclient.weight.datacenter]
+url = https://github.com/vostok/clusterclient.weight.datacenter.git
+pushurl = git@github.com:vostok/clusterclient.weight.datacenter.git
