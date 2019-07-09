@@ -301,3 +301,7 @@ pushurl = git@github.com:vostok/metrics.aggregations.git
 [module vostok.datacenter.abstractions]
 url = https://github.com/vostok/datacenter.abstractions.git
 pushurl = git@github.com:vostok/datacenter.abstractions.git
+
+[module vostok.datacenter]
+url = https://github.com/vostok/datacenter.git
+pushurl = git@github.com:vostok/datacenter.git
