@@ -313,3 +313,7 @@ pushurl = git@github.com:vostok/clusterclient.weight.datacenter.git
 [module vostok.clusterclient.snitch]
 url = https://github.com/vostok/clusterclient.snitch.git
 pushurl = git@github.com:vostok/clusterclient.snitch.git
+
+[module vostok.datacenters]
+url = https://github.com/vostok/datacenters.git
+pushurl = git@github.com:vostok/datacenters.git
