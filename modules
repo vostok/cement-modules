@@ -298,18 +298,6 @@ pushurl = git@github.com:vostok/clusterclient.singular.git
 url = https://github.com/vostok/metrics.aggregations.git
 pushurl = git@github.com:vostok/metrics.aggregations.git
 
-[module vostok.datacenter.abstractions]
-url = https://github.com/vostok/datacenter.abstractions.git
-pushurl = git@github.com:vostok/datacenter.abstractions.git
-
-[module vostok.datacenter]
-url = https://github.com/vostok/datacenter.git
-pushurl = git@github.com:vostok/datacenter.git
-
-[module vostok.clusterclient.weight.datacenter]
-url = https://github.com/vostok/clusterclient.weight.datacenter.git
-pushurl = git@github.com:vostok/clusterclient.weight.datacenter.git
-
 [module vostok.clusterclient.snitch]
 url = https://github.com/vostok/clusterclient.snitch.git
 pushurl = git@github.com:vostok/clusterclient.snitch.git
