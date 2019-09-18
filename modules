@@ -317,3 +317,7 @@ pushurl = git@github.com:vostok/hercules.client.metrics.git
 [module vostok.hosting]
 url = https://github.com/vostok/hosting.git
 pushurl = git@github.com:vostok/hosting.git
+
+[module vostok.snitch]
+url = https://github.com/vostok/snitch.git
+pushurl = git@github.com:vostok/snitch.git
