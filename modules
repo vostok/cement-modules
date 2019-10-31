@@ -325,3 +325,7 @@ pushurl = git@github.com:vostok/snitch.git
 [module vostok.aspnetcore.context]
 url = https://github.com/vostok/aspnetcore.context.git
 pushurl = git@github.com:vostok/aspnetcore.context.git
+
+[module vostok.hosting.aspnetcore]
+url = https://github.com/vostok/hosting.aspnetcore.git
+pushurl = git@github.com:vostok/hosting.aspnetcore.git
