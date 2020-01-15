@@ -333,3 +333,7 @@ pushurl = git@github.com:vostok/applications.aspnetcore.git
 [module vostok.throttling.metrics]
 url = https://github.com/vostok/throttling.metrics.git
 pushurl = git@github.com:vostok/throttling.metrics.git
+
+[module vostok.clusterclient.lz4]
+url = https://github.com/vostok/clusterclient.lz4.git
+pushurl = git@github.com:vostok/clusterclient.lz4.git
