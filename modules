@@ -341,3 +341,7 @@ pushurl = git@github.com:vostok/clusterclient.lz4.git
 [module vostok.configuration.sources.vault]
 url = https://github.com/vostok/configuration.sources.vault.git
 pushurl = git@github.com:vostok/configuration.sources.vault.git
+
+[module vostok.logging.configuration]
+url = https://github.com/vostok/logging.configuration.git
+pushurl = git@github.com:vostok/logging.configuration.git
