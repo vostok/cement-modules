@@ -345,3 +345,7 @@ pushurl = git@github.com:vostok/configuration.sources.vault.git
 [module vostok.logging.configuration]
 url = https://github.com/vostok/logging.configuration.git
 pushurl = git@github.com:vostok/logging.configuration.git
+
+[module vostok.applications.scheduled]
+url = https://github.com/vostok/applications.scheduled.git
+pushurl = git@github.com:vostok/applications.scheduled.git
