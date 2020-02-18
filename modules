@@ -349,3 +349,7 @@ pushurl = git@github.com:vostok/applications.scheduled.git
 [module vostok.zookeeper.recipes]
 url = https://github.com/vostok/zookeeper.recipes.git
 pushurl = git@github.com:vostok/zookeeper.recipes.git
+
+[module vostok.core.app]
+url = https://github.com/vostok/core.app.git
+pushurl = git@github.com:vostok/core.app.git
