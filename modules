@@ -352,24 +352,32 @@ pushurl = git@github.com:vostok/zookeeper.recipes.git
 
 [module vostok.legacy.clusterclient]
 url = https://github.com/vostok-archives/clusterclient.prototype.git
+pushurl = git@github.com:vostok-archives/clusterclient.prototype.git
 
 [module vostok.legacy.clusterclient.transport.http ]
 url = https://github.com/vostok-archives/clusterclient.transport.http.prototype.git
+pushurl = git@github.com:vostok-archives/clusterclient.transport.http.prototype.git
 
 [module vostok.legacy.core]
 url = https://github.com/vostok-archives/core.git
+pushurl = git@github.com:vostok-archives/core.git
 
 [module vostok.legacy.airlock.client]
 url = https://github.com/vostok/airlock.client.prototype.git
+pushurl = git@github.com:vostok/airlock.client.prototype.git
 
 [module vostok.legacy.airlock.consumer]
 url = https://github.com/vostok/airlock.consumer
+pushurl = git@github.com:vostok/airlock.consumer
 
 [module vostok.legacy.graphite.reporter]
 url = https://github.com/vostok/graphite.reporter.git
+pushurl = git@github.com:/vostok/graphite.reporter.git
 
 [module vostok.legacy.contrails.api]
 url = https://github.com/vostok/contrails.api.git
+pushurl = git@github.com:vostok/contrails.api.git
 
 [module vostok.legacy.logging.serilog]
 url = https://github.com/vostok-archives/logging.serilog.git
+pushurl = git@github.com:vostok-archives/logging.serilog.git
