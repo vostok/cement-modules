@@ -354,7 +354,7 @@ pushurl = git@github.com:vostok/zookeeper.recipes.git
 url = https://github.com/vostok-archives/clusterclient.prototype.git
 pushurl = git@github.com:vostok-archives/clusterclient.prototype.git
 
-[module vostok.legacy.clusterclient.transport.http ]
+[module vostok.legacy.clusterclient.transport.http]
 url = https://github.com/vostok-archives/clusterclient.transport.http.prototype.git
 pushurl = git@github.com:vostok-archives/clusterclient.transport.http.prototype.git
 
