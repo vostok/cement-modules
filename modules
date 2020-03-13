@@ -381,3 +381,7 @@ pushurl = git@github.com:vostok/contrails.api.git
 [module vostok.legacy.logging.serilog]
 url = https://github.com/vostok-archives/logging.serilog.git
 pushurl = git@github.com:vostok-archives/logging.serilog.git
+
+[module vostok.snitch.core]
+url = https://github.com/vostok/snitch.core.git
+pushurl = git@github.com:vostok/snitch.core.git
