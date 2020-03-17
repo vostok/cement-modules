@@ -385,7 +385,3 @@ pushurl = git@github.com:vostok-archives/logging.serilog.git
 [module vostok.snitch.core]
 url = https://github.com/vostok/snitch.core.git
 pushurl = git@github.com:vostok/snitch.core.git
-
-[module ntf.vostok.client-sd.base]
-url = git@git.skbkontur.ru:Notification/vostok-sd-client-base.git
-pushurl = git@git.skbkontur.ru:Notification/vostok-sd-client-base.git
