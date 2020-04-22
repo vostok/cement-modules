@@ -389,3 +389,7 @@ pushurl = git@github.com:vostok/snitch.core.git
 [module kontur.lz4.net]
 url = https://github.com/skbkontur/kontur.lz4.net.git
 pushurl = git@github.com:skbkontur/kontur.lz4.net.git
+
+[module vostok.singular.core]
+url = https://github.com/vostok/singular.core.git
+pushurl = git@github.com:vostok/singular.core.git
