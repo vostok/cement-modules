@@ -393,3 +393,7 @@ pushurl = git@github.com:skbkontur/kontur.lz4.net.git
 [module vostok.singular.core]
 url = https://github.com/vostok/singular.core.git
 pushurl = git@github.com:vostok/singular.core.git
+
+[module vostok.metrics.system]
+url = https://github.com/vostok/metrics.system.git
+pushurl = git@github.com:vostok/metrics.system.git
