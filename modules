@@ -397,3 +397,7 @@ pushurl = git@github.com:vostok/singular.core.git
 [module vostok.metrics.system]
 url = https://github.com/vostok/metrics.system.git
 pushurl = git@github.com:vostok/metrics.system.git
+
+[module vostok.snoopdog]
+url = https://github.com/vostok/snoopdog.git
+pushurl = git@github.com:vostok/snoopdog.git
