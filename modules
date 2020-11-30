@@ -401,3 +401,7 @@ pushurl = git@github.com:vostok/metrics.system.git
 [module vostok.snoopdog]
 url = https://github.com/vostok/snoopdog.git
 pushurl = git@github.com:vostok/snoopdog.git
+
+[module vostok.hosting.houston]
+url = git.skbkontur.ru/KE.Infra/vostok.hosting.kontur
+
