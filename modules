@@ -405,3 +405,7 @@ pushurl = git@github.com:vostok/snoopdog.git
 [module vostok.servicediscovery.telemetry]
 url = https://github.com/vostok/servicediscovery.telemetry.git
 pushurl = git@github.com:vostok/servicediscovery.telemetry.git
+
+[module vostok.servicediscovery.telemetry.hercules]
+url = https://github.com/vostok/servicediscovery.telemetry.hercules.git
+pushurl = git@github.com:vostok/servicediscovery.telemetry.hercules.git
