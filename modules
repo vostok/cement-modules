@@ -222,10 +222,6 @@ pushurl = git@github.com:vostok/sys.metrics.etw.git
 url = https://github.com/vostok/sys.metrics.windows.git
 pushurl = git@github.com:vostok/sys.metrics.windows.git
 
-[module vostok.sys.metrics.windows.performancecounters]
-url = https://github.com/vostok/sys.metrics.windows.performancecounters.git
-pushurl = git@github.com:vostok/sys.metrics.windows.performancecounters.git
-
 [module vostok.sys.metrics.perfcounters]
 url = https://github.com/vostok/sys.metrics.perfcounters.git
 pushurl = git@github.com:vostok/sys.metrics.perfcounters.git
