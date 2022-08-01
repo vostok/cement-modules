@@ -409,3 +409,7 @@ pushurl = git@github.com:vostok/servicediscovery.telemetry.hercules.git
 [module vostok.metrics.aspnetcore]
 url = https://github.com/vostok/metrics.aspnetcore.git
 pushurl = git@github.com:vostok/metrics.aspnetcore.git
+
+[module vostok.applications.aspnetcore.houston2]
+url = git@git.skbkontur.ru:infrastructure/vostok.applications.aspnetcore.houston2.git
+
