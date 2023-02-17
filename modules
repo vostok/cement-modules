@@ -417,3 +417,7 @@ pushurl = git@github.com:vostok/logging.nunit.git
 [module vostok.hosting.aspnetcore]
 url = https://github.com/vostok/hosting.aspnetcore.git
 pushurl = git@github.com:vostok/hosting.aspnetcore.git
+
+[module vostok.tracing.diagnostics]
+url = https://github.com/vostok/tracing.diagnostics.git
+pushurl = git@github.com:vostok/tracing.diagnostics.git
