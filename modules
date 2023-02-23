@@ -422,6 +422,6 @@ pushurl = git@github.com:vostok/hosting.aspnetcore.git
 url = https://github.com/vostok/tracing.diagnostics.git
 pushurl = git@github.com:vostok/tracing.diagnostics.git
 
-[module vostok.hercules.opentelemetry.exporter]
-url = https://github.com/vostok/hercules.opentelemetry.exporter.git
-pushurl = git@github.com:vostok/hercules.opentelemetry.exporter.git
+[module vostok.hercules.opentelemetry.exporters]
+url = https://github.com/vostok/hercules.opentelemetry.exporters.git
+pushurl = git@github.com:vostok/hercules.opentelemetry.exporters.git
